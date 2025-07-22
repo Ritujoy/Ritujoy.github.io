@@ -9,7 +9,7 @@ version: 2
 name: Ritujoy Biswas
 title: Postdoctoral Researcher
 email: ritujoybiswas@gmail.com
-      ritujoy.biswas@iit.it
+       ritujoy.biswas@iit.it
 # email_title: Email (Email title override)
 #phone: +91-9760158340
 # phone_title: Phone (Phone title override)
@@ -22,7 +22,7 @@ darkmode: false
 # Social links
 googlescholar_username: kqI4AJMAAAAJ
 #twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  Ritujoy
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
 #facebook_username: jekyll
@@ -32,7 +32,7 @@ linkedin_username: ritujoy-biswas
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
+orcid_username: 0000-0003-4108-1217
 
 # Additional icon links
 additional_links:
