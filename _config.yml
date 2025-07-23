@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Ritujoy Biswas
 title: Postdoctoral Researcher
-email: ritujoybiswas@gmail.com
+email: ritujoybiswas1996@gmail.com
        ritujoy.biswas@iit.it
 # email_title: Email (Email title override)
 #phone: +91-9760158340
@@ -53,9 +53,9 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/PIC.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Currently working with 3D spatial audio in mixed reality to render immersive experiences of art and culture - European project, codenamed XTREME.
+  Currently working with 3D spatial audio in mixed reality to render immersive experiences of art and culture - European project, codenamed [XTREME](https://xtremeitu.dk/).
 
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  highlight things <mark>like this</mark>.
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
