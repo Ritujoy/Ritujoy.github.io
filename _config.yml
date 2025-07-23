@@ -62,6 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - <a href="google.com">Links</a>
     - Images 
+      
       ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
